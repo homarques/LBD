@@ -1,4 +1,4 @@
-# Laboratório de Banco de Dados - Sistemas de Informação 
+# Laboratório de Banco de Dados - SI
 
 ## Slides
 
