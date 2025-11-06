@@ -4,6 +4,9 @@
 
 ## Trabalhos
 
+* [Lista 1](/Listas/Lista%20de%20exercícios%201.pdf)
+* [Lista 2](/Listas/Lista%20de%20exercícios%202.pdf)
+
 ## Materiais
 
 [LeetCode](https://leetcode.com/)
