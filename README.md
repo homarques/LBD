@@ -2,6 +2,8 @@
 
 ## Slides
 
+* [Aula 1](/Aulas/aula01.pdf)
+
 ## Trabalhos
 
 * [Lista 1](/Listas/Lista%20de%20exercícios%201.pdf)
